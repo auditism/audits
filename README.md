@@ -4,7 +4,7 @@ Hey, I’m Giorgio — a smart contract auditor with a strong track record in co
 
 I’ve actively contributed to securing protocols like **Chainlink, RevertLend, Dyad, and Lingo Token**, and my work spans leading platforms such as Code4rena and Hats Finance.
 
-Currently, my vulnerabilities and research contributions help secure protocols with a **cumulative TVL of over $100 million**.
+🔐 **The protocols I’ve helped secure collectively manage over $100 million in total value locked (TVL).**
 
 ---
 
@@ -37,8 +37,8 @@ Currently, my vulnerabilities and research contributions help secure protocols w
 
 ## 🔒 Private Audit
 
-| Project     | Type            |
-|-------------|------------------|------------------|
+| Project     | Type               |
+|-------------|--------------------|
 | Lingo Token | Private Engagement |
 
 ---
