@@ -1,6 +1,6 @@
 # 🛡️ Smart Contract Security Portfolio
 
-Hey, I’m Giorgio — a smart contract auditor with a strong track record in competitive audits and private security reviews.
+Hey, I’m Auditism — a smart contract auditor with a strong track record in competitive audits and private security reviews.
 
 I’ve actively contributed to securing protocols like **Chainlink, RevertLend, Dyad, and Lingo Token**, and my work spans leading platforms such as Code4rena and Hats Finance.
 
