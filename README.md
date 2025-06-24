@@ -57,10 +57,7 @@ I’ve actively contributed to securing protocols like **Chainlink, RevertLend, 
 ## 👨‍💻 About Me
 
 - Smart contract auditor focused on protocol security and logic validation  
-- Strong foundation in Web2 security and backend engineering  
-- Tools: I love to fuzz with Echidna, looking forward to new fuzzing tools publishment 
-- Familiar with complex DeFi mechanisms and tokenomics edge cases  
-
+- Tools: accomplished fuzzer
 ---
 
 ## 📬 Contact
