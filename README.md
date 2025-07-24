@@ -58,9 +58,12 @@ I’ve actively contributed to securing protocols like **Chainlink, RevertLend, 
 
 - Smart contract auditor focused on protocol security and logic validation  
 - Tools: accomplished fuzzer
+- 🎥 I share my web3 insights on [Youtube](https://www.youtube.com/@the-auditism/shorts)
 ---
 
 ## 📬 Contact
 
 - Twitter/X: [@Auditism](https://x.com/0xAuditism) 
 - Telegram: https://t.me/Auditism
+
+## 
