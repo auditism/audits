@@ -1,8 +1,10 @@
 # 🛡️ Smart Contract Security Portfolio
 
-Hey, I’m Auditism — a smart contract auditor with a strong track record in competitive audits and private security reviews.
+Hey, I’m Auditism a smart contract auditor with a strong track record in competitive audits and private security reviews.
 
-I’ve actively contributed to securing protocols like **Chainlink, RevertLend, Dyad, and Lingo Token**, and my work spans leading platforms such as Code4rena and Hats Finance.
+I’ve helped secure 35+ protocols, including Chainlink, RevertLend, Dyad, and Lingo Token, through leading platforms like Code4rena and Hats Finance.
+
+🔐 The protocols I’ve secured collectively manage over $100 million in total value locked (TVL).
 
 🔐 **The protocols I’ve helped secure collectively manage over $100 million in total value locked (TVL).**
 
